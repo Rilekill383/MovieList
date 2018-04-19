@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies_list</string>
+    <string name="TextView">My Fav IMDb Movies</string>
+    <string name="Button">Add Item</string>
+    <string name="template">(http://www._____.com/__/)</string>
+    <string name="activity2button">Add Movie</string>
+    <string name="url">URL Address</string>
+</resources>
